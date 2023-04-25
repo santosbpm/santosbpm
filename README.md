@@ -1,4 +1,4 @@
-<img src="./assets/banner_fifo.gif" align="center" alt="Banner" width="100%" height="300px"/>
+<div align="center"> <img src="./assets/banner_fifo_13_opt.gif" align="center" alt="Banner" align="center"/></div>
 
 ---
 
