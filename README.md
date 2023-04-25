@@ -10,7 +10,7 @@
 
 <h2></h2>
 
-<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" style="transform:rotate(90deg); display: inline-block;" align="right" width="420px" height="520px">
+<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" style="transform:rotate(90deg); display: inline-block;" align="right" width="420px" height="460px">
 
 <h2 align="center"> Self-taught and passionate about tecnology!</h2><br>
 
@@ -18,7 +18,7 @@
 
 * I’m currently learning Linux, Docker and React! <br><br>
 
-* Interest: Tecnology, Beer, and Coding. <br><br><br>
+* Interest: Tecnology, Beer, and Coding. <br><br>
 
 * 2023 Goals: Learn about new technologies and drink more beer. <br><br>
 
