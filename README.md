@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" src="./assets/banner_reverse_84_opt.gif" height="600px" alt="banner communication" style="transform:rotate(90deg);">
+<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" style="transform:rotate(90deg); display: inline-block;" align="right" width="460" height="600">
 
 <h2 align="center"> Self-taught and passionate about tecnology!</h2><br>
 
