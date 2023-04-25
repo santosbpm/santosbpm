@@ -10,7 +10,7 @@
 
 <h2></h2>
 
-<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" style="transform:rotate(90deg); display: inline-block; max-width: 30%;" align="right" height="520px">
+<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" style="transform:rotate(90deg); display: inline-block; width: 50%;" align="right" height="520px">
 
 <h2 align="center"> Self-taught and passionate about tecnology!</h2><br>
 
