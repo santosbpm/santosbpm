@@ -8,3 +8,17 @@
 
 ---
 
+<img align="right" src="./assets/banner_reverse_84_opt.gif" height="600px" alt="banner communication" style="transform:rotate(90deg);">
+
+<h2 align="center"> Self-taught and passionate about tecnology!</h2><br>
+
+* I'm Marcos Paulo(santosbpm) a college student. <br><br><br>
+
+* I’m currently learning Linux, Docker and React! <br><br><br>
+
+* Interest: Tecnology, Beer, and Coding. <br><br><br>
+
+* 2023 Goals: Learn about new technologies and drink more beer. <br><br><br>
+
+* Hobbies: Sleeping, Reading, Animes, Mangas and Games. <br><br>
+
