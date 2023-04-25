@@ -12,7 +12,7 @@
 
 <img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" style="transform:rotate(90deg); display: inline-block;" align="right" width="420px" height="460px">
 
-<h2 align="center"> Self-taught and passionate about tecnology!</h2><br>
+<h2 align="center"> Self-taught and passionate about tecnology!</h2><br><br>
 
 * I'm Marcos Paulo(santosbpm) a college student. <br><br>
 
