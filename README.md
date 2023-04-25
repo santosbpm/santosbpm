@@ -14,13 +14,13 @@
 
 <h2 align="center"> Self-taught and passionate about tecnology!</h2><br>
 
-* I'm Marcos Paulo(santosbpm) a college student. <br><br><br>
+* I'm Marcos Paulo(santosbpm) a college student. <br><br>
 
-* I’m currently learning Linux, Docker and React! <br><br><br>
+* I’m currently learning Linux, Docker and React! <br><br>
 
 * Interest: Tecnology, Beer, and Coding. <br><br><br>
 
-* 2023 Goals: Learn about new technologies and drink more beer. <br><br><br>
+* 2023 Goals: Learn about new technologies and drink more beer. <br><br>
 
 * Hobbies: Sleeping, Reading, Animes, Mangas and Games. <br><br>
 
