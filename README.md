@@ -39,3 +39,11 @@
 <br><br><br>
 <img align="center" width="96%" src="https://github-readme-activity-graph.cyclic.app/graph?username=santosbpm&custom_title=santosbpm's%20Github%20Activity%20Graph&theme=high-contrast&radius=8&bg_color=151515"
 </div>
+
+---
+    
+<div align="center"> 
+    <a href="https://github.com/CrowlKeyn">
+        <img src="./assets/bottom_banner.gif" align="center" alt="Bottom Banner" align="center" width="100%"/>
+    </a>
+</div>
