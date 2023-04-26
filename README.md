@@ -18,7 +18,7 @@
 
 * I'm Marcos Paulo(santosbpm) a college student. <br><br>
 
-* I’m currently learning Linux, Docker and React! <br><br>
+* I’m currently learning Linux, Docker and Python! <br><br>
 
 * Interest: Tecnology, Beer, and Coding. <br><br>
 
