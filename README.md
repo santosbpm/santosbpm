@@ -12,7 +12,7 @@
 
 <h2></h2>
 
-<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" align="right" width="75%" height="75%">
+<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" align="right" width="50%" height="50%">
 
 <h2 align="center"> Self-taught and passionate about technology!</h2> <br><br>
 
