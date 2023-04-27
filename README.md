@@ -12,7 +12,7 @@
 
 <h2></h2>
 
-<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" align="right" width="425px" height="450px">
+<img src="./assets/banner_reverse_84_opt.gif" alt="banner communication" align="right">
 
 <h2 align="center"> Self-taught and passionate about technology!</h2> <br><br>
 
@@ -28,16 +28,11 @@
 
 ---
 <div align="center">
-<h2> <b>Technologies and Skills</b></h2>
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santosbpm&show_icons=true&theme=dark" width="48%" height="225px"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosbpm&layout=compact&theme=dark" width="48%" height="170px"/>
-</a>
-<br><br><br>
-<img align="center" width="96%" src="https://github-readme-activity-graph.cyclic.app/graph?username=santosbpm&custom_title=santosbpm's%20Github%20Activity%20Graph&theme=high-contrast&radius=8&bg_color=151515"
+    <h2> <b>Technologies and Skills</b></h2>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosbpm&layout=compact&theme=dark" width="48%" height="auto"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=santosbpm&show_icons=true&theme=dark" width="48%" height="auto"/>
+    <br><br>
+    <img align="center" width="96%" src="https://github-readme-activity-graph.cyclic.app/graph?username=santosbpm&custom_title=santosbpm's%20Github%20Activity%20Graph&theme=high-contrast&radius=8&bg_color=151515"
 </div>
 
 ---
