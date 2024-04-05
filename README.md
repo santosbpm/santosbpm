@@ -32,7 +32,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosbpm&layout=compact&theme=dark" width="48%" height="auto"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=santosbpm&show_icons=true&theme=dark" width="48%" height="auto"/>
     <br><br>
-    <img align="center" width="96%" src="https://github-readme-activity-graph.cyclic.app/graph?username=santosbpm&custom_title=santosbpm's%20Github%20Activity%20Graph&theme=high-contrast&radius=8&bg_color=151515"
+    <!-- <img align="center" width="96%" src="https://github-readme-activity-graph.cyclic.app/graph?username=santosbpm&custom_title=santosbpm's%20Github%20Activity%20Graph&theme=high-contrast&radius=8&bg_color=151515" -->
 </div>
 
 ---
